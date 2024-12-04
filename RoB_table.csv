@@ -1,0 +1,77 @@
+﻿Title;First Author;Year;Diagnostic vs Prognostic;Development vs Validation;Participants 1.1;Participants 1.2;Participants RoB;Predictors 2.1;Predictors 2.2;Predictors 2.3;Predictors RoB;Outcome 3.1;Outcome 3.2;Outcome 3.3;Outcome 3.4;Outcome 3.5;Outcome 3.6;Outcome RoB;Analysis 4.1;Analysis 4.2;Analysis 4.3;Analysis 4.4;Analysis 4.5;Analysis 4.6;Analysis 4.7;Analysis 4.8;Analysis 4.9;Analysis RoB;Overall RoB
+Acute Exacerbation of a Chronic Obstructive Pulmonary Disease Prediction System Using Wearable Device Data, Machine Learning, and Deep Learning: Development and Cohort Study;Wu, C;2021;P;D;Y;Y;L;Y;Y;Y;L;PY;PY;Y;PY;Y;Y;L;N;Y;Y;PY;Y;Y;Y;Y;Y;L;H
+A smart healthcare-based system for classification of dementia using deep learning;Lim, J;2022;D;D;Y;N;H;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;N;Y;H;H
+Continuous Wearable Monitoring Analytics Predict Heart Failure Hospitalization: The LINK-HF Multicenter Study;Stehlik, J;2020;P;V;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;PY;X;Y;Y;X;X;H;H
+Evaluating the Potential of Machine Learning and Wearable Devices in End-of-Life Care in Predicting 7-Day Death Events Among Patients With Terminal Cancer: Cohort Study.;Liu, J;2023;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;N;Y;Y;Y;Y;Y;Y;L;L
+A Decision Support System for Tele-Monitoring COPD-Related Worrisome Events;Merone, M;2017;P;D;Y;U;U;Y;Y;Y;L;PN;PN;Y;PN;Y;Y;H;N;Y;Y;Y;Y;Y;Y;Y;Y;H;H
+Monitoring Parkinson's disease symptoms during daily life: a feasibility study;Heijmans, M;2019;D;D;Y;PY;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;U;Y;Y;N;Y;U;H;H
+Passive Nocturnal Physiologic Monitoring Enables Early Detection of Exacerbations in Children with Asthma A Proof-of-Concept Study;Huffaker, M;2018;D;D;Y;Y;L;Y;Y;Y;L;PN;N;Y;PN;Y;PY;H;PY;Y;N;Y;Y;Y;Y;N;Y;H;H
+Learning Bayesian networks for clinical time series analysis;van der Heijden, M;2014;D;DV;Y;Y;L;Y;U;Y;U;PY;PN;U;Y;U;Y;U;N;Y;Y;Y;X;Y;Y;X;X;H;H
+Early detection of COPD patients' symptoms with personal environmental sensors: a remote sensing framework using probabilistic latent component analysis with linear dynamic systems;Kolozali, S;2023;P;D;Y;Y;L;Y;Y;Y;L;Y;PY;Y;Y;Y;Y;L;Y;Y;U;Y;Y;Y;PY;U;Y;U;U
+Detection of Flares by Decrease in Physical Activity, Collected Using Wearable Activity Trackers in Rheumatoid Arthritis or Axial Spondyloarthritis: An Application of Machine Learning Analyses in Rheumatology.;Gossec, L;2019;D;D;Y;Y;L;Y;Y;Y;L;Y;PY;Y;Y;Y;Y;L;Y;Y;N;Y;Y;Y;Y;Y;Y;L;L
+Surrogates for rigidity and PIGD MDS-UPDRS subscores using wearable sensors;Safarpour, D;2022;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;Y;Y;H;H
+Artificial Intelligence to Prevent Mobile Heart Failure Patients Decompensation in Real Time: Monitoring-Based Predictive Model;Larburu, N;2018;P;D;Y;PY;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;PY;Y;Y;Y;PY;U;H;H
+Hand tremor-based hypoglycemia detection and prediction in adolescents with type 1 diabetes;Aljihmani, L;2022;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;PN;Y;Y;H;N;Y;N;PY;Y;Y;Y;Y;U;H;H
+Detection of Parkinson's Disease Using Wrist Accelerometer Data and Passive Monitoring;Rastegari, E;2022;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;N;Y;U;H;H
+A remote medical monitoring system for heart failure prognosis;Saif, N.;2020;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;PN;Y;Y;H;N;Y;Y;PY;Y;Y;Y;Y;Y;H;H
+Mining telemonitored physiological data and patient-reported outcomes of congestive heart failure patients.;Zhang, L;2015;D;D;Y;Y;L;Y;Y;Y;L;PN;N;Y;Y;Y;Y;H;PY;Y;N;Y;Y;Y;Y;Y;Y;H;H
+Exacerbations in Chronic Obstructive Pulmonary Disease: Identification and Prediction Using a Digital Health System.;Mlakar, M;2018;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;Y;Y;U;L;L
+Unsupervised home monitoring of Parkinson's disease motor symptoms using body-worn accelerometers.;Shah, S;2017;D;D;PY;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;PY;Y;U;L;L
+Gait Monitoring for Early Neurological Disorder Detection Using Sensors in a Smartphone: Validation and a Case Study of Parkinsonism.;Fisher, J;2016;D;D;Y;Y;L;Y;Y;Y;L;PY;PY;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;N;N;U;H;H
+Detecting COPD exacerbations early using daily telemonitoring of symptoms and k-means clustering: a pilot study.;Sanchez-Morillo, D;2015;D;D;Y;N;H;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;PY;Y;Y;Y;Y;U;H;H
+Classification of Decompensated Heart Failure From Clinical and Home Ballistocardiography.;Aydemir, V;2020;D;D;Y;Y;L;Y;Y;Y;L;PY;Y;Y;Y;PN;Y;H;PN;Y;Y;PY;Y;PN;Y;Y;Y;H;H
+Parkinson's Disease Tremor Detection in the Wild Using Wearable Accelerometers.;San-Segundo, R;2020;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;PY;Y;PN;Y;Y;U;H;H
+Remote COPD Severity and Exacerbation Detection Using Heart Rate and Activity Data Measured from a Wearable Device.;Tiwari, A;2021;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PN;Y;Y;PN;Y;Y;Y;Y;U;H;H
+Computerised Analysis of Telemonitored Respiratory Sounds for Predicting Acute Exacerbations of COPD.;Fernandez-Granero, M (1);2015;D;D;Y;Y;L;Y;Y;Y;L;PY;PY;Y;Y;Y;Y;L;N;Y;N;PY;Y;Y;Y;Y;Y;H;H
+Automatic prediction of chronic obstructive pulmonary disease exacerbations through home telemonitoring of symptoms.;Fernández-Granero, M (2);2014;D;D;Y;Y;L;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;L;N;Y;N;Y;Y;Y;Y;Y;U;H;H
+Remote Monitoring of Treatment Response in Parkinson's Disease: The Habit of Typing on a Computer.;Matarazzo, M;2019;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;U;Y;U;Y;U;N;Y;Y;Y;Y;Y;Y;Y;U;H;H
+Noninvasive Hypoglycemia Detection in People With Diabetes Using Smartwatch Data.;Lehmann, V;2023;D;D;PY;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;N;PN;Y;Y;Y;Y;Y;L;L
+Unleashing the Power of Very Small Data to Predict Acute Exacerbations of Chronic Obstructive Pulmonary Disease.;Jacobson, P;2023;D;D;Y;Y;L;Y;Y;Y;L;PN;N;Y;Y;Y;PN;H;N;Y;N;N;Y;Y;Y;Y;Y;H;H
+Passive Detection of Atrial Fibrillation Using a Commercially Available Smartwatch;Tison, G;2018;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;X;Y;Y;X;X;L;L
+Atrial Fibrillation Detection and Atrial Fibrillation Burden Estimation via Wearables;Zhu, L;2022;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;Y;Y;X;Y;Y;X;X;L;L
+Smartwatch Performance for the Detection and Quantification of Atrial Fibrillation;Wasserlauf, J;2019;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;N;PY;X;Y;Y;X;X;L;L
+Detecting Motor Impairment in Early Parkinson's Disease via Natural Typing Interaction With Keyboards: Validation of the neuroQWERTY Approach in an Uncontrolled At-Home Setting;Arroyo-Gallego, T;2018;D;DV;Y;PY;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;PY;X;Y;Y;X;X;H;H
+"An Individualized Multi-Modal Approach for Detection of Medication ""Off"" Episodes in Parkinson's Disease via Wearable Sensors";Arasteh, E;2023;D;D;Y;PY;L;Y;Y;Y;L;Y;Y;Y;Y;PN;Y;L;N;Y;N;PY;Y;Y;N;N;Y;H;H
+Comparing Objective and Subjective Measures of Parkinson's Disease Using the Parkinson's KinetiGraph;Knudson, M;2020;D;D;Y;PY;L;Y;Y;Y;L;Y;Y;N;Y;N;Y;H;N;Y;Y;PY;Y;Y;PN;N;U;H;H
+Enhancing self-management in type 1 diabetes with wearables and deep learning;Zhu, T;2022;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;Y;Y;Y;L;L
+Real-Life Gait Performance as a Digital Biomarker for Motor Fluctuations: The Parkinson@Home Validation Study.;Evers, L;2020;D;D;Y;Y;L;Y;Y;PN;H;Y;Y;Y;Y;Y;Y;L;N;Y;N;Y;Y;Y;Y;Y;U;H;H
+Using Smartphones and Machine Learning to Quantify Parkinson Disease Severity: The Mobile Parkinson Disease Score.;Zhan, A;2018;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;PY;Y;Y;N;N;U;H;H
+Changes in telemonitored physiological variables and symptoms prior to exacerbations of chronic obstructive pulmonary disease;Burton, C;2014;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;PN;Y;Y;Y;N;U;H;H
+Early Indication of Decompensated Heart Failure in Patients on Home-Telemonitoring: A Comparison of Prediction Algorithms Based on Daily Weight and Noninvasive Transthoracic Bio-impedance.;Cuba Gyllensten, I;2016;P;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;N;Y;H;N;Y;N;PN;Y;Y;Y;Y;U;H;H
+Detecting and monitoring the symptoms of Parkinson's disease using smartphones: A pilot study;Arora, S.;2015;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;PY;Y;Y;Y;Y;U;H;H
+Machine Learning Experiments with Noninvasive Sensors for Hypoglycemia Detection;Marling, Cindy;2016;P;D;N;Y;H;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;PN;Y;Y;PN;Y;U;H;H
+Combined accelerometer and genetic analysis to differentiate essential tremor from Parkinson's disease;Molparia, B.;2018;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;U;Y;Y;Y;N;Y;H;H
+Prediction of Nocturnal Hypoglycemia in Adults with Type 1 Diabetes under Multiple Daily Injections Using Continuous Glucose Monitoring and Physical Activity Monitor;Bertachi, A;2020;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;Y;Y;U;L;L
+Machine Learning Approaches to Classify Self-Reported Rheumatoid Arthritis Health Scores Using Activity Tracker Data: Longitudinal Observational Study;Rao, K.;2023;D;D;Y;Y;L;Y;Y;Y;L;PY;PN;Y;Y;PN;Y;H;PY;Y;N;Y;Y;Y;PN;N;Y;H;H
+Hypoglycemia Detection Using Hand Tremors: Home Study of Patients With Type 1 Diabetes;Jahromi, R.;2023;D;D;Y;Y;L;Y;N;Y;L;Y;Y;Y;Y;Y;N;H;Y;PN;Y;N;PY;Y;Y;Y;Y;H;H
+A Predictive Machine Learning Tool for Asthma Exacerbations: Results from a 12-Week, Open-Label Study Using an Electronic Multi-Dose Dry Powder Inhaler with Integrated Sensors;Lugogo, N.L.;2022;P;D;Y;PY;L;Y;Y;Y;L;N;Y;Y;N;Y;Y;H;N;Y;Y;PY;Y;Y;PN;Y;Y;H;H
+Artificial Intelligence (AI) based machine learning models predict glucose variability and hypoglycaemia risk in patients with type 2 diabetes on a multiple drug regimen who fast during ramadan (The PROFAST – IT Ramadan study);Elhadd, T.;2020;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;U;U;Y;N;N;N;Y;H;H
+A Machine Learning Approach to Classifying Self-Reported Health Status in a Cohort of Patients with Heart Disease Using Activity Tracker Data;Meng, Y.;2020;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;PN;Y;L;Y;Y;N;Y;Y;Y;PY;Y;Y;L;L
+Feature-Based Machine Learning Model for Real-Time Hypoglycemia Prediction;Dave, D.;2020;P;D;U;U;U;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;U;U;Y;Y;PY;Y;Y;U;U
+Automated recognition of hypertension through overnight continuous HRV monitoring;Ni, H.;2018;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;U;Y;Y;Y;Y;Y;H;H
+Device-measured physical activity data for classification of patients with ventricular arrhythmia events: A pilot investigation;Marzec, L.;2018;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;N;Y;Y;H;N;Y;Y;U;Y;Y;Y;N;Y;H;H
+Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients;Deng, Y;2021;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;U;Y;Y;U;Y;Y;Y;Y;U;U;U
+SugarMate;Gu, W;2017;D;D;Y;U;U;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;L;Y;Y;U;U;Y;Y;Y;PY;U;U;U
+Towards Wearable-based Hypoglycemia Detection and Warning in Diabetes;Maritsch, M;2020;D;D;N;Y;H;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;N;Y;H;H
+Monitoring patients with diabetes using wearable sensors: predicting glycaemias using ECG and respiration rate;Cvetković, B;2016;D;D;Y;Y;L;Y;Y;Y;L;N;Y;Y;PN;PN;Y;H;U;Y;Y;Y;Y;YY;N;Y;U;H;H
+Non-linear dynamic modeling of glucose in type 1 diabetes with kernel adaptive filters.;Georga, E;2016;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;U;Y;Y;U;Y;Y;PN;U;U;H;H
+PD Disease State Assessment in Naturalistic Environments Using Deep Learning;Hammerla, N;2015;D;D;Y;Y;L;Y;Y;Y;L;PN;PN;Y;PN;Y;PN;H;Y;Y;U;U;Y;Y;Y;Y;U;L;H
+Comparing laboratory and in-the-wild data for continuous Parkinson's Disease tremor detection.;Zhang, A;2020;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;PN;Y;PN;Y;Y;N;Y;U;H;H
+Home Monitoring of Asthma Exacerbations in Children and Adults With Use of an AI-Aided Stethoscope.;Emeryk, A;2023;D;D;Y;Y;L;Y;Y;Y;L;PN;N;N;N;N;Y;H;Y;PN;Y;Y;Y;Y;Y;Y;U;L;H
+Adaptive Smart eHealth Framework for Personalized Asthma Attack Prediction and Safe Route Recommendation;Alharbi, E;2023;D;D;Y;Y;L;Y;Y;Y;L;U;U;U;U;U;U;U;N;Y;Y;Y;Y;Y;Y;N;U;H;H
+Digital health technologies and machine learning augment patient reported outcomes to remotely characterise rheumatoid arthritis;Creagh, A;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;N;U;Y;Y;Y;Y;Y;H;H
+A machine learning model for predicting acute exacerbation of in-home chronic obstructive pulmonary disease patients;Yin, H;2024;P;D;Y;PY;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;N;Y;Y;Y;Y;Y;Y;L;L
+Predicting the Risk of Developing Type 1 Diabetes Using a One-Week Continuous Glucose Monitoring Home Test With Classification Enhanced by Machine-Learning: An Exploratory Study;Montaser, E;2023;D;D;Y;N;H;Y;Y;Y;L;Y;PN;Y;Y;Y;U;U;N;Y;N;U;Y;Y;Y;Y;Y;H;H
+PulmoListener;Bhalla, S;2023;D;D;Y;Y;L;Y;Y;Y;L;N;PY;Y;Y;Y;Y;H;Y;Y;N;Y;Y;Y;Y;Y;U;H;H
+Motor network gamma oscillations in chronic home recordings predict dyskinesia in Parkinson's disease.;Olaru, M;2024;D;D;Y;Y;L;N;Y;Y;H;PN;Y;Y;Y;Y;Y;L;N;Y;Y;U;Y;Y;N;Y;U;H;H
+Evaluation of walking activity and gait to identify physical and mental fatigue in neurodegenerative and immune disorders: preliminary insights from the IDEA-FAST feasibility study.;Hinchliffe, C;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;N;Y;Y;Y;PN;Y;Y;H;H
+Unveiling the Unpredictable in Parkinson's Disease: Sensor-Based Monitoring of Dyskinesias and Freezing of Gait in Daily Life;Zampogna, A;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;Y;U;H;H
+Wearable Sensor-Based Assessments for Remotely Screening Early-Stage Parkinson's Disease.;Johnson, S;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;U;Y;Y;Y;Y;Y;Y;H;H
+Proactive Identification of Patients with Diabetes at Risk ofUncontrolled Outcomes during a Diabetes Management Program:Conceptualization and Development Study Using MachineLearning;Khalilnejad, A;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;N;Y;N;Y;H;Y;Y;U;Y;Y;Y;Y;N;Y;H;H
+Classifying Self-Reported Rheumatoid Arthritis Flares Using DailyPatient-Generated Data From a Smartphone App:ExploratoryAnalysis Applying Machine Learning Approaches;Gandrup, J;2024;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;PN;Y;Y;L;Y;Y;Y;Y;Y;Y;Y;Y;U;L;L
+Combining patient-reported outcome measures to screen for active disease in rheumatoid arthritis and psoriatic arthritis.;Looijen, A;2024;D;D;N;N;H;Y;Y;Y;L;Y;Y;Y;PY;Y;Y;L;Y;Y;N;Y;Y;Y;PN;Y;Y;H;H
+Wearable-Enabled Algorithms for the Estimation of Parkinson's Symptoms Evaluated in a Continuous Home Monitoring Setting Using Inertial Sensors.;Crowe, C;2024;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;U;Y;Y;U;Y;Y;Y;Y;U;U;U
+Machine learning for prediction of ventricular arrhythmia episodes from intracardiac electrograms of automatic implantable cardioverter-defibrillators.;Cha, Y;2024;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;PN;N;U;H;H
+Artificial intelligence based real-time prediction of imminent heart failure hospitalisation in patients undergoing non-invasive telemedicine;Hinrichs, N;2024;P;D;PY;Y;L;U;Y;Y;U;Y;Y;Y;Y;PN;Y;H;U;Y;Y;Y;Y;Y;Y;Y;Y;U;U
+Predicting the risk of exacerbation in patients with chronic obstructive pulmonary disease using home telehealth measurement data.;Mohktar, M;2015;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;Y;Y;Y;L;L
+Discriminating Parkinson's disease patients from healthy controls using nasal respiratory airflow;Andelman-Gur, M;2024;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;YY;Y;Y;U;H;H
