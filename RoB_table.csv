@@ -53,7 +53,7 @@ Device-measured physical activity data for classification of patients with ventr
 Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients;Deng, Y;2021;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;U;Y;Y;U;Y;Y;Y;Y;U;U;U
 SugarMate;Gu, W;2017;D;D;Y;U;U;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;L;Y;Y;U;U;Y;Y;Y;PY;U;U;U
 Towards Wearable-based Hypoglycemia Detection and Warning in Diabetes;Maritsch, M;2020;D;D;N;Y;H;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;N;Y;H;H
-Monitoring patients with diabetes using wearable sensors: predicting glycaemias using ECG and respiration rate;Cvetković, B;2016;D;D;Y;Y;L;Y;Y;Y;L;N;Y;Y;PN;PN;Y;H;U;Y;Y;Y;Y;YY;N;Y;U;H;H
+Monitoring patients with diabetes using wearable sensors: predicting glycaemias using ECG and respiration rate;Cvetković, B;2016;D;D;Y;Y;L;Y;Y;Y;L;N;Y;Y;PN;PN;Y;H;U;Y;Y;Y;Y;Y;N;Y;U;H;H
 Non-linear dynamic modeling of glucose in type 1 diabetes with kernel adaptive filters.;Georga, E;2016;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;U;Y;Y;U;Y;Y;PN;U;U;H;H
 PD Disease State Assessment in Naturalistic Environments Using Deep Learning;Hammerla, N;2015;D;D;Y;Y;L;Y;Y;Y;L;PN;PN;Y;PN;Y;PN;H;Y;Y;U;U;Y;Y;Y;Y;U;L;H
 Comparing laboratory and in-the-wild data for continuous Parkinson's Disease tremor detection.;Zhang, A;2020;D;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;PN;Y;PN;Y;Y;N;Y;U;H;H
@@ -74,4 +74,4 @@ Wearable-Enabled Algorithms for the Estimation of Parkinson's Symptoms Evaluated
 Machine learning for prediction of ventricular arrhythmia episodes from intracardiac electrograms of automatic implantable cardioverter-defibrillators.;Cha, Y;2024;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;PN;N;U;H;H
 Artificial intelligence based real-time prediction of imminent heart failure hospitalisation in patients undergoing non-invasive telemedicine;Hinrichs, N;2024;P;D;PY;Y;L;U;Y;Y;U;Y;Y;Y;Y;PN;Y;H;U;Y;Y;Y;Y;Y;Y;Y;Y;U;U
 Predicting the risk of exacerbation in patients with chronic obstructive pulmonary disease using home telehealth measurement data.;Mohktar, M;2015;P;D;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;PY;Y;Y;Y;Y;Y;Y;Y;Y;L;L
-Discriminating Parkinson's disease patients from healthy controls using nasal respiratory airflow;Andelman-Gur, M;2024;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;YY;Y;Y;U;H;H
+Discriminating Parkinson's disease patients from healthy controls using nasal respiratory airflow;Andelman-Gur, M;2024;D;DV;Y;Y;L;Y;Y;Y;L;Y;Y;Y;Y;Y;Y;L;N;Y;Y;Y;Y;Y;Y;Y;U;H;H
